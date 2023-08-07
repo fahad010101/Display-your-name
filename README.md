@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("ChatGPT\n");
+    printf("fahad\n");
     return 0;
 }
 
