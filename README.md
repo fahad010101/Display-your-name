@@ -1,4 +1,4 @@
-# Display-your-name
+//Display-your-name
 #include <stdio.h>
 
 int main() {
