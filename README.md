@@ -1,2 +1,8 @@
 # Display-your-name
-Display name in C
+#include <stdio.h>
+
+int main() {
+    printf("ChatGPT\n");
+    return 0;
+}
+
